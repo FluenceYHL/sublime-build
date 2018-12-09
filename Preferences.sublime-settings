@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Qt Completions for C++",
+		"Vintage"
+	],
+	"theme": "Default.sublime-theme"
+}
